@@ -1,0 +1,2 @@
+# stylehaat_crawler
+Crawler for https://www.stylehaat.com/.  Python Version: 3.7  Exports data into JSON file using following command: "scrapy crawl stylehaat -o items.json"  For CSV file "scrapy crawl stylehaat -o items.csv"  Following data is scrapped  Product category Product Name Product New Price Product Image Product Description Install dependency using following command: "pip install requirements.txt"
