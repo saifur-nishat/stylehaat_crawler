@@ -3,10 +3,10 @@ Crawler for https://www.stylehaat.com/.
 Python Version: 3.7  
 
 Exports data into JSON file using following command: 
-"scrapy crawl stylehaat -o items.json"  
+"scrapy crawl stylehaat_product -o items.json"  
 
 For CSV file 
-"scrapy crawl stylehaat -o items.csv"  
+"scrapy crawl stylehaat_product -o items.csv"  
 
 Following data is scrapped  
 1. Product category 
