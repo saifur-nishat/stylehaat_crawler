@@ -131,3 +131,9 @@ dmypy.json
 # pycharm idea
 .idea
 .idea/*
+
+#images folder
+*/images/*
+
+#json folder
+*/json/*
